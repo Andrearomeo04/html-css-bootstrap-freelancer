@@ -12,3 +12,7 @@ header {
     height: 200px;
     background-color: blueviolet;
 }
+
+.bg-color-1 {
+    background-color: #1abc9c;
+}
