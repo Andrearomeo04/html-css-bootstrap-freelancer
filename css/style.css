@@ -25,6 +25,11 @@ header {
     background-color: #2c3e50;
 }
 
+.bg-color-4 {
+    background-color: #1abc9c;
+}
+
+
 .avatar {
     width: 250px;
 }
@@ -66,4 +71,8 @@ header {
 
 .main-color-1 {
     color: #2c3e50;
+}
+
+.btn:hover{
+    background-color: #106e5b;
 }
