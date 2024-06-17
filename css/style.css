@@ -54,6 +54,12 @@ header {
     border-radius: 10px;
 }
 
+.underline-input {
+    border: none;
+    border-bottom: 1px solid grey;
+    display: block;
+}
+
 .fs-25 {
     font-size: 25px;
 }
