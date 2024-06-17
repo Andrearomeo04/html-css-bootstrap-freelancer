@@ -28,3 +28,13 @@ header {
 .avatar {
     width: 250px;
 }
+
+.lines::after,
+.lines::before {
+    content: "";
+    width: 100px;
+    height: 3px;
+    background-color: white;
+    display: inline-block;
+    vertical-align: middle;
+}
